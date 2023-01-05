@@ -1,4 +1,4 @@
-const header = 'Welcome a new test site';
+const header = 'Welcome to a new test site';
 const footer = 'maique was here';
 const entries = [
   {
